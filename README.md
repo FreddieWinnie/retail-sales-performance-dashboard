@@ -17,25 +17,25 @@ An interactive Business Intelligence dashboard built in Power BI to analyze reta
  **Dashboard Preview**
 
 **Cover Page**  
-(images/01_Cover.png)  
+(images/cover.png)  
 ![][image1]
 
 **Executive Overview**  
-(images/02_Overview.png)  
+(images/overview.png)  
 ![][image2]
 
 **Regional Performance**  
-(images/03_Regional.png)  
+(images/regional.png)  
 ![][image3]  
 **Customer Insights**  
-(images/04_Customers.png)  
+(images/customers.png)  
 ![][image4]
 
 **Product Performance**  
-(images/05_Products.png)  
+(images/products.png)  
 ![][image5]  
 **Discount & Profitability Analysis**  
-**(images/06_Discount)**  
+**(images/discount)**  
 ![][image6]  
 **Business Problem**
 
